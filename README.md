@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Zuvah
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning executable files
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+Greetings, anon zuvah here.. 
+Currently working on a few projects
+Stay tuned 📍
 
 <!---
 Zuvah/Zuvah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
